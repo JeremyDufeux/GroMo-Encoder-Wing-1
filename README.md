@@ -7,5 +7,5 @@ You need to use an Arduino pro micro or any board with HID capability
 
 ***
 
-![Breadboard](pictures/breadboard.png "Breadboard")
-![Schematic](pictures/schematic.png "schematic")
+![breadboard](pictures/breadboard.png "Breadboard")
+![schematic](pictures/schematic.png "schematic")
